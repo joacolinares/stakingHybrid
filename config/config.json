@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4Cee758595E5C744c3bdF3A03F47858cE8141980",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "Hybridbots",
+  "SYMBOL": "HB",
+  "MAX_SUPPLY": 150,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opdddeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection",
+  "SHOW_BACKGROUND": true
+}
